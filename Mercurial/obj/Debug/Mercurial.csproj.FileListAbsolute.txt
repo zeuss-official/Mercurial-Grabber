@@ -1,0 +1,3 @@
+C:\Users\Angelo\Desktop\Discord\INFO SCAM\Mercurial-Grabber\Mercurial\obj\Debug\Mercurial.csproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\Discord\INFO SCAM\Mercurial-Grabber\Mercurial\obj\Debug\Mercurial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angelo\Desktop\Discord\INFO SCAM\Mercurial-Grabber\Mercurial\obj\Debug\Mercurial.csproj.GenerateResource.cache
